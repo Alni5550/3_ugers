@@ -1,0 +1,1 @@
+﻿DELETE FROM Kunde WHERE brugernavn IS NULL
